@@ -23,7 +23,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
 `;
   }
   if (config.ascii === 'motaphe') {
-    return `
+    return ` 
            ▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄                  sumfetch
         ▄▓▓▀ ▄▓▓▀▓▓▓▀▓▓▄ ▀▀▓▓▄              -----------
       ▓▓▀  ▄▓▀   ▐▓▓  ▀▓▓    ▓▓▄             ABOUT
